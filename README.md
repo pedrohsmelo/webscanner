@@ -71,7 +71,7 @@ O dashboard fornece uma visão clara e organizada dos dados coletados:
 - **Exportação de Relatório**: Um botão permite baixar o relatório completo como um único arquivo HTML.
 - **Modo Claro/Escuro**: Alterne entre os temas para melhor visualização.
 
-![Exemplo do Dashboard](https://raw.githubusercontent.com/pedrohsmelo/webscanner/dashboard.png)
+![Exemplo do Dashboard](https://github.com/pedrohsmelo/webscanner/dashboard.png)
 
 ## ⚠️ Aviso Legal
 
