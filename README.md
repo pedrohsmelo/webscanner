@@ -4,7 +4,7 @@ O **Web Scanner** é uma ferramenta de análise de segurança para aplicações 
 
 Os resultados são compilados e apresentados em um **dashboard web local e interativo**, criado com Flask, facilitando a visualização e interpretação dos dados.
 
-## ✨ Funcionalidades Principais
+## Funcionalidades Principais
 
 - **Scanner de Portas e Serviços**: Utiliza o Nmap para uma varredura completa, identificando portas abertas, serviços e versões.
 - **Detecção de Vulnerabilidades (CVEs)**: Integra o script `vulners` do Nmap para correlacionar serviços com vulnerabilidades conhecidas.
@@ -12,7 +12,7 @@ Os resultados são compilados e apresentados em um **dashboard web local e inter
 - **Análise com WPScan**: Oferece varreduras "rápida" e "completa" em alvos WordPress para encontrar plugins, temas, usuários e vulnerabilidades específicas.
 - **Dashboard Interativo**: Inicia um servidor web local (Flask) para exibir os resultados em uma interface amigável com gráficos (Chart.js), modo claro/escuro e opção de download do relatório em HTML.
 
-## 🚀 Instalação e Pré-requisitos
+## Instalação e Pré-requisitos
 
 Antes de executar o script, garanta que você tenha os seguintes pré-requisitos instalados em seu sistema:
 
@@ -36,7 +36,7 @@ Antes de executar o script, garanta que você tenha os seguintes pré-requisitos
     sudo gem install wpscan
     ```
 
-## ⚙️ Como Usar
+## Como Usar
 
 1.  Clone o repositório.
     ```bash
@@ -60,7 +60,7 @@ Antes de executar o script, garanta que você tenha os seguintes pré-requisitos
 
 6.  Ao final da análise, um servidor web será iniciado e uma aba será aberta automaticamente no seu navegador, exibindo o dashboard com os resultados.
 
-## 📊 O Dashboard
+## O Dashboard
 
 O dashboard fornece uma visão clara e organizada dos dados coletados:
 
