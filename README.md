@@ -46,7 +46,7 @@ Antes de executar o script, garanta que você tenha os seguintes pré-requisitos
 
 2.  Execute o script a partir do seu terminal:
     ```bash
-    python3 web_scanner.py
+    python3 webscanner.py
     ```
 
 3.  O script irá primeiro verificar e instalar as bibliotecas Python faltantes.
