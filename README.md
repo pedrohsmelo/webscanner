@@ -40,7 +40,7 @@ Antes de executar o script, garanta que você tenha os seguintes pré-requisitos
 
 1.  Clone o repositório.
     ```bash
-    git clone [https://github.com/pedrohsmelo/webscanner.git](https://github.com/pedrohsmelo/webscanner.git)
+    git clone https://github.com/pedrohsmelo/webscanner.git
     cd webscanner
     ```
 
