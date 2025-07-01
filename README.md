@@ -40,8 +40,8 @@ Antes de executar o script, garanta que você tenha os seguintes pré-requisitos
 
 1.  Clone o repositório.
     ```bash
-    git clone [https://github.com/pedrohsmelo/webscanner.git](https://github.com/pedrohsmelo/webscanner.git)
-    cd webscanner
+   git clone https://github.com/pedrohsmelo/webscanner.git
+   cd webscanner
     ```
 
 2.  Execute o script a partir do seu terminal:
@@ -53,7 +53,7 @@ Antes de executar o script, garanta que você tenha os seguintes pré-requisitos
 
 4.  Em seguida, ele solicitará o **domínio do alvo** que você deseja analisar.
     ```
-    Informe o domínio (ex: [https://site.com](https://site.com)):
+    Informe o domínio (ex: https://site.com):
     ```
 
 5.  Se o alvo for detectado como WordPress, ele perguntará se deseja prosseguir com a varredura do WPScan e qual o tipo de scan (rápido ou completo).
