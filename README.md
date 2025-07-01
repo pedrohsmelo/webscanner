@@ -39,10 +39,10 @@ Antes de executar o script, garanta que você tenha os seguintes pré-requisitos
 ## Como Usar
 
 1.  Clone o repositório.
-    ```bash
+   ```bash
    git clone https://github.com/pedrohsmelo/webscanner.git
    cd webscanner
-    ```
+   ```
 
 2.  Execute o script a partir do seu terminal:
     ```bash
