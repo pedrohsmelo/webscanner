@@ -39,26 +39,26 @@ Antes de executar o script, garanta que você tenha os seguintes pré-requisitos
 ## Como Usar
 
 1.  Clone o repositório.
-   ```bash
-   git clone https://github.com/pedrohsmelo/webscanner.git
-   cd webscanner
-   ```
+    ```bash
+    git clone [https://github.com/pedrohsmelo/webscanner.git](https://github.com/pedrohsmelo/webscanner.git)
+    cd webscanner
+    ```
 
-2.  Execute o script a partir do seu terminal:
+3.  Execute o script a partir do seu terminal:
     ```bash
     python3 webscanner.py
     ```
 
-3.  O script irá primeiro verificar e instalar as bibliotecas Python faltantes.
+4.  O script irá primeiro verificar e instalar as bibliotecas Python faltantes.
 
-4.  Em seguida, ele solicitará o **domínio do alvo** que você deseja analisar.
+5.  Em seguida, ele solicitará o **domínio do alvo** que você deseja analisar.
     ```
     Informe o domínio (ex: https://site.com):
     ```
 
-5.  Se o alvo for detectado como WordPress, ele perguntará se deseja prosseguir com a varredura do WPScan e qual o tipo de scan (rápido ou completo).
+6.  Se o alvo for detectado como WordPress, ele perguntará se deseja prosseguir com a varredura do WPScan e qual o tipo de scan (rápido ou completo).
 
-6.  Ao final da análise, um servidor web será iniciado e uma aba será aberta automaticamente no seu navegador, exibindo o dashboard com os resultados.
+7.  Ao final da análise, um servidor web será iniciado e uma aba será aberta automaticamente no seu navegador, exibindo o dashboard com os resultados.
 
 ## O Dashboard
 
